@@ -10,6 +10,7 @@ A women's health app that helps anyone manage PCOD/PCOS by tracking their cycle,
 - **Awareness hub:** learn about PCOD/PCOS
 - **Diet plans:** meal guidance suited to PCOD/PCOS
 - **Exercise:** workout suggestions
+- **Profile:** view and edit your personal info
 
 ## Tech Stack
 - **Frontend:** Flutter (Dart)
@@ -36,7 +37,6 @@ A women's health app that helps anyone manage PCOD/PCOS by tracking their cycle,
    `flutter run`
 
 ## Planned Improvements
-- Improved profile page
 - Cycle predictions and reminders
 
 ## Author
