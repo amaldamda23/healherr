@@ -22,7 +22,15 @@ A women's health app that helps anyone manage PCOD/PCOS by tracking their cycle,
 - Firestore rules make sure each user can read and write only their own data
 
 ## Screenshots
-[Add 4 to 6 screenshots here]
+<p float="left">
+  <img src="home.png.png" width="200" />
+  <img src="period.png.png" width="200" />
+  <img src="weight.png.png" width="200" />
+</p>
+<p float="left">
+  <img src="diet.png.png" width="200" />
+  <img src="symptom.png.png" width="200" />
+</p>
 
 ## Run Locally
 1. Clone the repo:
